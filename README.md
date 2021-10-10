@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zexab
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on minecraft animation modding projects
+- 📫 You can contact me on dicsord, My discord username is : Zexab#8391
